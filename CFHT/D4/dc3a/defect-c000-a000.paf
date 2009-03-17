@@ -1,0 +1,15 @@
+#<?cfg paf policy ?>
+# Bad pixels for CFHT image ./2003A.mask.0.36.01/defect-c000-a000.fits
+# Coordinates are for untrimmed image
+Defects: {
+    x0:        0                         # Starting column
+    width:  1024                         # number of columns
+    y0:        0                         # Starting row
+    height:    1                         # number of rows
+}
+Defects: {
+    x0:      930                         # Starting column
+    width:     1                         # number of columns
+    y0:        1                         # Starting row
+    height: 1152                         # number of rows
+}
