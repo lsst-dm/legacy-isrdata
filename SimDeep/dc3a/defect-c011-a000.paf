@@ -1,4 +1,2 @@
 #<?cfg paf policy ?>
 # Bad pixels for Simulated image SimDeep/defect-c011-a000.fits
-Defects: {
-}
